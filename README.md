@@ -53,7 +53,7 @@ Air-Quality-Prediction-System/
 └── README.md              # Project documentation
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+https://github.com/iamsudeeprathod-sudo/Air_Quality_Index.git
 cd YOUR-REPOSITORY
 2. Create and activate a virtual environment (recommended)
 Windows:
